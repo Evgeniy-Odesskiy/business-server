@@ -1,0 +1,22 @@
+{
+    "choice_buisess": [
+        {
+            "name": "group",
+            "choices": [
+                {
+                    "nalog1": 1212,
+                    "nalog2": 1212
+                }
+            ]
+        },
+        {
+            "name": "single",
+            "choices": [
+                {
+                    "nalog1": 1212,
+                    "nalog2": 1212
+                }
+            ]
+        }
+    ]
+}
